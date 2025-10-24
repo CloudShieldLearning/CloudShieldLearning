@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### 🎓 My Udemy Courses
+
+Here are some of my practice test — available with **exclusive discounts** 👇
+
+| 💻 Course | 🔗 Regular Price | 🔗 Discount Link |
+|------------|----------------|----------------|
+| **FCP - FortiGate Administrator 7.6 Exam Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fcp-fortigate-76-administrator-exam-test-2025-n/?couponCode=30FE721FEBD54BD6E1EB) | [$9.99 on Udemy (Expires 10/29/2025) →](https://www.udemy.com/course/fcp-aws-cloud-security-74-administrator-practice-test-g/?couponCode=D70D8AC31FE6D7006C0C)
+| **FCP - AWS Cloud Security 7.4 Administrator Exam Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fcp-aws-cloud-security-74-administrator-practice-test-g/?couponCode=246D36287F142A6C94D5) |
+
+*(Discounts are updated regularly — grab them while they last!)*  
 <!--
 **CloudShieldLearning/CloudShieldLearning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

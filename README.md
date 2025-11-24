@@ -7,7 +7,7 @@ Here are some of my practice test — available with **exclusive discounts** �
 | 💻 Course | 🔗 Discount Link | 🔗 Code |
 |------------|----------------|----------------|
 | **Fortinet NSE 4 - FortiOS 7.6 Administrator Practice Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fcp-fortigate-76-administrator-exam-test-2025-n/?couponCode=D5A8B32CB1CE91E3830A) | D5A8B32CB1CE91E3830A
-| **Fortinet NSE 5 FortiManager 7.6 Administrator Practice Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fortinet-nse-5-fortimanager-administrator-practice-test/?couponCode=C163F092E00448522235) | C163F092E00448522235
+| **Fortinet NSE 5 - FortiManager 7.6 Administrator Practice Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fortinet-nse-5-fortimanager-administrator-practice-test/?couponCode=C163F092E00448522235) | C163F092E00448522235
 
 *(Discounts are updated regularly — grab them while they last!)*  
 <!--

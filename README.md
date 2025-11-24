@@ -4,10 +4,10 @@
 
 Here are some of my practice test — available with **exclusive discounts** 👇
 
-| 💻 Course | 🔗 Regular Price | 🔗 Discount Link |
+| 💻 Course | 🔗 Discount Link | 🔗 Code |
 |------------|----------------|----------------|
-| **FCP - FortiGate Administrator 7.6 Exam Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fcp-fortigate-76-administrator-exam-test-2025-n/?couponCode=30FE721FEBD54BD6E1EB) | [$9.99 on Udemy (Expires 10/29/2025) →](https://www.udemy.com/course/fcp-fortigate-76-administrator-exam-test-2025-n/?couponCode=2A378BD6597FBDF1B25A)
-| **FCP - AWS Cloud Security 7.4 Administrator Exam Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fcp-aws-cloud-security-74-administrator-practice-test-g/?couponCode=246D36287F142A6C94D5) | [$9.99 on Udemy (Expires 10/29/2025) →](https://www.udemy.com/course/fcp-aws-cloud-security-74-administrator-practice-test-g/?couponCode=D70D8AC31FE6D7006C0C)
+| **Fortinet NSE 4 - FortiOS 7.6 Administrator Practice Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fcp-fortigate-76-administrator-exam-test-2025-n/?couponCode=D5A8B32CB1CE91E3830A) | D5A8B32CB1CE91E3830A
+| **Fortinet NSE 5 FortiManager 7.6 Administrator Practice Test 2025** | [$12.99 on Udemy →](https://www.udemy.com/course/fortinet-nse-5-fortimanager-administrator-practice-test/?couponCode=C163F092E00448522235) | C163F092E00448522235
 
 *(Discounts are updated regularly — grab them while they last!)*  
 <!--
